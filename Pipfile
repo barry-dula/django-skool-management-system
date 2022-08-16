@@ -4,6 +4,26 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+django = "*"
+djangorestframework = "*"
+django-environ = "*"
+django-filter = "*"
+django-autoslug = "*"
+django-countries = "*"
+django-phonenumber-field = "*"
+pillow = "*"
+django-timezone-field = "*"
+phonenumbers = "*"
+psycopg2-binary = "*"
+flake8 = "*"
+black = "*"
+isort = "*"
+djangorestframework-simplejwt = "*"
+celery = "*"
+django-celery-email = "*"
+python-decouple = "*"
+python-dotenv = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
